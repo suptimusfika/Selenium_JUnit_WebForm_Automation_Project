@@ -2,11 +2,11 @@
 I have created a selenium junit project for automating web-form fill up process and asserting the expected message after successfull form fillup.
 
 ## Scenario
-Automate the following webform
+- Automate the following webform
 https://www.digitalunite.com/practice-webform-learners
 
-During the web form submission process, upload any file like ppt or pdf or xlsx etc.
-After successful submission, assert the expected message as: Thank you for your submission!
+- During the web form submission process, upload any file like ppt or pdf or xlsx etc.
+- After successful submission, assert the expected message as: Thank you for your submission!
 
 ## How to run this project
 - clone this project
