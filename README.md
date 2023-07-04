@@ -35,5 +35,8 @@ https://www.digitalunite.com/practice-webform-learners
 ## Project Run Video:
 https://drive.google.com/file/d/13w_8ti-HMKddF1xFqV1PilmUh07LWXul/view?usp=sharing
 
+## Filled Form:
+![FilledReport](https://github.com/suptimusfika/Selenium_JUnit_WebForm_Automation_Project/assets/48064134/34e9f002-01c5-4304-9522-f5fd7801e85a)
+
 
   
